@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:e1eec3,100:f05053&height=150&section=header&text=welcome&fontColor=FFFFFF&animation=twinkling&%20capsule%20render&fontAlignY=50%)
-<center>hi</center>
+
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
 
