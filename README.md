@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:e1eec3,100:f05053&height=150&section=header&text=welcome&fontColor=FFFFFF&animation=twinkling&%20capsule%20render&fontAlignY=50%)
-
+<center>
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
 
@@ -30,6 +30,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hyeminyy&show_icons=true&theme=radical">
 
+
+</center>
 <!---
 hyeminyy/hyeminyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
