@@ -18,7 +18,7 @@
 
 <a href="https://github.com/hyeminyy"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Git&logoColor=white&link=https://github.com/hyeminyy"/></a>
 
-<a href="[https://www.instagram.com/xhxmxhxm/hyeminyy"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Git&logoColor=white&link=https://www.instagram.com/xhxmxhxm"/></a>
+<a href="[https://www.instagram.com/xhxmxhxm/hyeminyy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Git&logoColor=white&link=https://www.instagram.com/xhxmxhxm"/></a>
 
 <!---
 hyeminyy/hyeminyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
