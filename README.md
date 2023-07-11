@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:e1eec3,100:93CC8D&height=150&section=header&text=welcome&fontColor=FFFFFF&animation=twinkling&%20capsule%20render&fontAlignY=50%)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:e1eec3,100:5D9657&height=150&section=header&text=welcome&fontColor=FFFFFF&animation=twinkling&%20capsule%20render&fontAlignY=50%)
 
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
