@@ -4,6 +4,7 @@
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
 
 🛠Skill🛠
+
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -17,6 +18,7 @@
 
 
 👩‍💻About Me👩‍💻
+
 <a href="https://github.com/hyeminyy"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Git&logoColor=white&link=https://github.com/hyeminyy"/></a>
 <a href="[https://www.instagram.com/xhxmxhxm/hyeminyy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Git&logoColor=white&link=https://www.instagram.com/xhxmxhxm"/></a>
 
