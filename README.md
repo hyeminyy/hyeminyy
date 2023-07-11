@@ -1,8 +1,7 @@
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <!---
 hyeminyy/hyeminyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
