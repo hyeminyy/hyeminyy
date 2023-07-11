@@ -3,7 +3,7 @@
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
   
-<a href="[https://hyeminyy.github.com]" target="_blank"><img src="https://img.shields.io/badge/[github]-[181717]?style=flat-square&logo=[4. Github]&logoColor=white"/></a>
+<a href="[https://hyeminyy.github.com]" target="_blank"><img src="https://img.shields.io/badge/[github]-[#181717]?style=flat-square&logo=[4. Github]&logoColor=white"/></a>
 
 
 <!---
