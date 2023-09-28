@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/React-572B6?style=flat-square&logo=React&logoColor=white"/></a>
-
+<br/><br/>
 
  <div align=center>
 	<h3>⚒️Tool⚒️</h3> 
@@ -38,7 +38,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
  
-
+<br/><br/>
  <div align=center>
 	<h3>👩‍💻About Me👩‍💻</h3> 
  </div>
@@ -50,7 +50,7 @@
 	</a>
 <a href="mailto:www_wowwh@naver.com"><img src="https://img.shields.io/badge/minutemailer-30B980?style=flat-square&logo=Gmail&logoColor=white&link=www_wowwh@naver.com"/></a>
 
-
+<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeminyy&count_bg=%23A5CCFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=git&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
