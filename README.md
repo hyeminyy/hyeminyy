@@ -29,6 +29,9 @@
 ## 👩‍💻About Me👩‍💻
 
 <a href="https://github.com/hyeminyy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Git&logoColor=white&link=https://github.com/hyeminyy"/></a>
+<a href="https://steady-developer-hyemin.tistory.com">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
 <a href="mailto:www_wowwh@naver.com"><img src="https://img.shields.io/badge/minutemailer-30B980?style=flat-square&logo=Gmail&logoColor=white&link=www_wowwh@naver.com"/></a>
 
 
