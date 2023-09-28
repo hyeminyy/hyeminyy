@@ -3,8 +3,13 @@
 - 👋 Back and Developers hyeminyy
 - 👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023
 
-<div align=center>
- ## 🛠Skill🛠
+  <div align=center>
+    <h3>📚Tech Stack📚</h3>
+   <p>✨Platforms & Languages✨</p>
+  </div>
+
+<div align="center">
+
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
