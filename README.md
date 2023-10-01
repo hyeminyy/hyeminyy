@@ -3,7 +3,7 @@
 <p>👋 Back and Developers hyeminyy</p> 
  <p>👩‍🎓 Graduated from Deu-University majoring in computer engineering in 2023</p>
    </div>
-<br/><br/>
+<br/>
   <div align=center>
     <h3>📚Tech Stack📚</h3>
    <p>✨Platforms & Languages✨</p>
