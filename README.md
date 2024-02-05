@@ -42,7 +42,7 @@
  
 <br/><br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=steady-developer-hyemin&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=steady-developer-hyemin&theme=vue)](https://easyhomputer.tistory.com)
 </div><br>
 
 
