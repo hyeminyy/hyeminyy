@@ -41,26 +41,11 @@
 </div>
  
 <br/><br/>
- <div align=center>
-	<h3>👩‍💻About Me👩‍💻</h3> 
- </div>
 
-
-<a href="https://github.com/hyeminyy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Git&logoColor=white&link=https://github.com/hyeminyy"/></a>
-<a href="https://steady-developer-hyemin.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-<a href="mailto:www_wowwh@naver.com"><img src="https://img.shields.io/badge/minutemailer-30B980?style=flat-square&logo=Gmail&logoColor=white&link=www_wowwh@naver.com"/></a>
-
-<br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeminyy&count_bg=%23A5CCFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=git&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=steady-developer-hyemin&theme=default)](https://easyhomputer.tistory.com)
+</div><br>
 
 
 </div>
 
 
-<!---
-hyeminyy/hyeminyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
