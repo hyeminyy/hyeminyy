@@ -42,9 +42,6 @@
  
 <br/><br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=steady-developer-hyemin&theme=vue)]
-</div><br>
-
 
 </div>
 
