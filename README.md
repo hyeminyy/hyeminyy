@@ -7,9 +7,6 @@
 
 
 <br/>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{hyeminyy}?pet-id=1" width="1000" height="120"/>
-</a>
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
@@ -58,4 +55,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{hyeminyy}" alt="Gitanimals" width="500"/>
+  </a>
+</div>
+
 
