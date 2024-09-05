@@ -10,9 +10,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{hyeminyy}?pet-id=1" width="1000" height="120"/>
 </a>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hyeminyy}"/>
-</a>
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
