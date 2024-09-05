@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:e1eec3,100:5D9657&height=150&section=header&text=hyeminyy&fontColor=FFFFFF&animation=twinkling&%20capsule%20render&fontAlignY=50%)
 
 <div align="center">
-  <p>👋 Hello! I'm hyeminyy</p>
-  <p>👩‍🎓 Graduated in 2023 with a degree in Computer Engineering from Deu-University</p>
+  <h2>👋 Hello! I'm <strong>hyemin</strong></h2>
+  <p>👩‍🎓 <strong>Graduated in 2023</strong> with a degree in <strong>Computer Engineering</strong> from <em>Deu-University</em></p>
 </div>
+
 
 <br/>
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
-  <p>✨ Platforms & Languages ✨</p>
+  <p> 📝 Platforms & Languages 📝</p>
 </div>
 
 <div align="center">
