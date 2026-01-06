@@ -1,18 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:417bf8,100:a3ceff&height=150&section=header&text=hyeminyy&fontColor=FFFFFF&animation=twinkling&capsule%20render&fontAlignY=50%)
 
-<div align="center">
-  <h3>👋🏻 Hello! I'm <strong>hyemin</strong></h3>
-  <p>👩‍🎓 <strong>Graduated in 2023</strong> with a degree in <strong>Computer Engineering</strong> from <em>Deu-University</em></p>
-  <p>I'm a passionate <strong>Full-Stack Developer</strong> with a knack for creating dynamic and efficient web applications.</p>
-</div>
 
-<div align="center">
-  <a href="mailto:www_wowwh@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <h3>💪🏻 Skills</h3>
