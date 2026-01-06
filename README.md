@@ -7,9 +7,6 @@
 </div>
 
 <div align="center">
-  <a href="https://steady-developer-hyemin.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF6600?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory"/>
-  </a>
   <a href="mailto:www_wowwh@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
