@@ -1,5 +1,28 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:417bf8,100:a3ceff&height=150&section=header&text=hyeminyy&fontColor=FFFFFF&animation=twinkling&capsule%20render&fontAlignY=50%)
+-->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Kim+HyeMin;)](https://git.io/typing-svg)
+
+---
+
+## `$ MyInfo`
+
+```yaml
+# KimHyeMin.yaml
+name    : Kim HyeMin (김혜민)
+role    : Full-Stack
+focus:
+  - Full-Stack Web Development (Java / JSP)
+  - RESTful API Design
+  - Cloud Deployment (AWS)
+  - Data Processing & Monitoring Systems
+  - Performance Optimization
+status  : 🟢 Actively building
+motto   : "매일 1% 더 나아지는 개발자."
+contact :
+  email : www_wowwh@naver.com
+```
 
 
 <div align="center">
